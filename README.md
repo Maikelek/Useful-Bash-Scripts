@@ -33,12 +33,6 @@ cd Useful-Bash-Scripts
 chmod +x scriptName.sh
 ```
 
-4. Make the script executable (if necessary):
-
-```bash
-chmod +x scriptName.sh
-```
-
 5. Run the script::
    
 ```bash
